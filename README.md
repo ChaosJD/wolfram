@@ -8,6 +8,7 @@
 
 ## youtube
 [Wolfram Programming Language Quick Start](https://youtu.be/_P9HqHVPeik)  
+[Wolfram Programming Language Quick Start](https://youtu.be/EMgPL0roVHI)
 
 ## official Website
 [wolfram](https://www.wolfram.com/?source=nav)
